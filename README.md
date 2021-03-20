@@ -2,19 +2,21 @@
 
 University stuff that you wouldn't even think of visiting to be honest...
 
+The future of this project is still not clear, maybe no one will contribute and that's fine i guess.
+
 ## FAQ
 
 **Question:** Who are you? 
 
 
-** Answer:** Sekki :) if you wanna know more about me just dm me on instagram at `itzsekki`.
+**Answer:** Sekki :) if you wanna know more about me just dm me on instagram at `itzsekki`.
 
 
 ##
 **Question:** Placeholder
 
 
-** Answer:** Placeholder
+**Answer:** Placeholder
 
 
 ##
@@ -39,13 +41,12 @@ This is my main repositroy for posting notes for multiple uni courses (ENCGM), I
 
 ## Wanna Contribute ?
 
-If you wanna contribute follow these guidelines :
+If you wanna contribute, just keep in mind writig quality things & follow these guidelines :
 
-* The future of this project is still not clear, maybe no one will contribute and that's fine i guess.
-* The structure may change depending on the size of the project so i'll update the tree whenever it's possible, you can also do that using the `tree` command in you CLI.
 * Learn about git & github (at least the basics). 
 * Respect the naming convestions, we don't want to make a mess in this repo.
 * Add a description to your file here in the README!
+* The structure may change depending on the size of the project so i'll update the tree whenever it's possible, you can also do that using the `tree` command in you CLI.
 
 ## Files
 

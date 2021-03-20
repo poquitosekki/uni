@@ -2,9 +2,22 @@
 
 University stuff that you wouldn't even think of visiting to be honest...
 
-## Me? 
+## FAQ
 
-Sekki :)
+**Question:** Who are you? 
+
+
+** Answer:** Sekki :) if you wanna know more about me just dm me on instagram at `itzsekki`.
+
+
+##
+**Question:** Placeholder
+
+
+** Answer:** Placeholder
+
+
+##
 
 ## Naming convention 
 

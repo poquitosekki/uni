@@ -27,6 +27,12 @@ The future of this project is still not clear, maybe no one will contribute and 
 * Example : `S4 Comptabilité de Gestion 2` -> `S4-CG2` 
 * The type tag is just optional if you wanna specify what this file is for, ig: notes, slides, support...
 
+List of possibles types (maybe there is more? idk)
+* notes
+* slides
+* td[0-9]
+...
+
 ## About
 
 This is my main repositroy for posting notes for multiple uni courses (ENCGM), I started in S4 doing this stuff here instead of uploading them privately on my personal Google Drive.
@@ -36,7 +42,7 @@ This is my main repositroy for posting notes for multiple uni courses (ENCGM), I
 ```
 /
 ├── README.md
-└── S4-CG2.docx
+└── S4-CG2-notes.docx
 ```
 
 ## Wanna Contribute ?
@@ -51,4 +57,4 @@ If you wanna contribute, just keep in mind writig quality things & follow these 
 ## Files
 
 * README.md : you know what this is, r-right??
-* S4-CG2.docx : Comptabilité de Gestion 2
+* S4-CG2-notes.docx : Comptabilité de Gestion 2

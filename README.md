@@ -1,5 +1,3 @@
-![](wunderbar.jpg)
-
 # wunderbar
 
 University stuff that you wouldn't even think of visiting to be honest...

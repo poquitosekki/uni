@@ -13,13 +13,6 @@ The future of this project is still not clear, maybe no one will contribute and 
 
 
 ##
-**Question:** Placeholder
-
-
-**Answer:** Placeholder
-
-
-##
 
 ## Naming convention 
 
